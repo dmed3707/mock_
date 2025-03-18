@@ -1,0 +1,267 @@
+{
+  "rows" : [ {
+    "opcoNo" : "001",
+    "opcoName" : "JACKSON"
+  }, {
+    "opcoNo" : "002",
+    "opcoName" : "Atlanta"
+  }, {
+    "opcoNo" : "003",
+    "opcoName" : "Jacksonville"
+  }, {
+    "opcoNo" : "004",
+    "opcoName" : "Central California"
+  }, {
+    "opcoNo" : "005",
+    "opcoName" : "Intermountain"
+  }, {
+    "opcoNo" : "006",
+    "opcoName" : "Sysco North Texas"
+  }, {
+    "opcoNo" : "007",
+    "opcoName" : "Virginia"
+  }, {
+    "opcoNo" : "008",
+    "opcoName" : "North New England"
+  }, {
+    "opcoNo" : "009",
+    "opcoName" : "Pittsburgh"
+  }, {
+    "opcoNo" : "010",
+    "opcoName" : "Eastern Maryland"
+  }, {
+    "opcoNo" : "011",
+    "opcoName" : "Louisville"
+  }, {
+    "opcoNo" : "012",
+    "opcoName" : "Baltimore"
+  }, {
+    "opcoNo" : "013",
+    "opcoName" : "Central Texas"
+  }, {
+    "opcoNo" : "014",
+    "opcoName" : "Memphis"
+  }, {
+    "opcoNo" : "015",
+    "opcoName" : "Cleveland"
+  }, {
+    "opcoNo" : "016",
+    "opcoName" : "South Florida"
+  }, {
+    "opcoNo" : "017",
+    "opcoName" : "Las Vegas"
+  }, {
+    "opcoNo" : "018",
+    "opcoName" : "Baraboo"
+  }, {
+    "opcoNo" : "019",
+    "opcoName" : "Cincinnati"
+  }, {
+    "opcoNo" : "022",
+    "opcoName" : "Central Florida"
+  }, {
+    "opcoNo" : "023",
+    "opcoName" : "New Orleans"
+  }, {
+    "opcoNo" : "024",
+    "opcoName" : "Chicago"
+  }, {
+    "opcoNo" : "025",
+    "opcoName" : "Albany"
+  }, {
+    "opcoNo" : "026",
+    "opcoName" : "Sysco Oklahoma"
+  }, {
+    "opcoNo" : "027",
+    "opcoName" : "Syracuse"
+  }, {
+    "opcoNo" : "029",
+    "opcoName" : "Arkansas"
+  }, {
+    "opcoNo" : "031",
+    "opcoName" : "Sacramento"
+  }, {
+    "opcoNo" : "032",
+    "opcoName" : "SE Florida"
+  }, {
+    "opcoNo" : "035",
+    "opcoName" : "East Wisconsin"
+  }, {
+    "opcoNo" : "036",
+    "opcoName" : "San Diego"
+  }, {
+    "opcoNo" : "037",
+    "opcoName" : "West Coast Florida"
+  }, {
+    "opcoNo" : "038",
+    "opcoName" : "Indianapolis"
+  }, {
+    "opcoNo" : "039",
+    "opcoName" : "Iowa"
+  }, {
+    "opcoNo" : "040",
+    "opcoName" : "Sysco Idaho"
+  }, {
+    "opcoNo" : "042",
+    "opcoName" : "Central Warehouse"
+  }, {
+    "opcoNo" : "043",
+    "opcoName" : "Montana"
+  }, {
+    "opcoNo" : "045",
+    "opcoName" : "Los Angeles"
+  }, {
+    "opcoNo" : "046",
+    "opcoName" : "Central Alabama"
+  }, {
+    "opcoNo" : "047",
+    "opcoName" : "Minnesota"
+  }, {
+    "opcoNo" : "048",
+    "opcoName" : "Charlotte"
+  }, {
+    "opcoNo" : "049",
+    "opcoName" : "Sysco Arizona"
+  }, {
+    "opcoNo" : "050",
+    "opcoName" : "San Francisco"
+  }, {
+    "opcoNo" : "051",
+    "opcoName" : "Central PA"
+  }, {
+    "opcoNo" : "052",
+    "opcoName" : "Portland"
+  }, {
+    "opcoNo" : "054",
+    "opcoName" : "Connecticut"
+  }, {
+    "opcoNo" : "055",
+    "opcoName" : "Seattle"
+  }, {
+    "opcoNo" : "056",
+    "opcoName" : "Boston"
+  }, {
+    "opcoNo" : "057",
+    "opcoName" : "Kansas City"
+  }, {
+    "opcoNo" : "058",
+    "opcoName" : "Detroit"
+  }, {
+    "opcoNo" : "059",
+    "opcoName" : "Sysco Denver"
+  }, {
+    "opcoNo" : "060",
+    "opcoName" : "Nashville"
+  }, {
+    "opcoNo" : "061",
+    "opcoName" : "Lincoln"
+  }, {
+    "opcoNo" : "064",
+    "opcoName" : "St Louis"
+  }, {
+    "opcoNo" : "066",
+    "opcoName" : "Sysco New Mexico"
+  }, {
+    "opcoNo" : "067",
+    "opcoName" : "Houston"
+  }, {
+    "opcoNo" : "068",
+    "opcoName" : "Grand Rapids"
+  }, {
+    "opcoNo" : "073",
+    "opcoName" : "Hampton Roads"
+  }, {
+    "opcoNo" : "075",
+    "opcoName" : "Philadelphia"
+  }, {
+    "opcoNo" : "076",
+    "opcoName" : "Metro New York"
+  }, {
+    "opcoNo" : "078",
+    "opcoName" : "West Texas"
+  }, {
+    "opcoNo" : "101",
+    "opcoName" : "Ventura"
+  }, {
+    "opcoNo" : "102",
+    "opcoName" : "Spokane"
+  }, {
+    "opcoNo" : "134",
+    "opcoName" : "IFG - Plant City"
+  }, {
+    "opcoNo" : "137",
+    "opcoName" : "Columbia"
+  }, {
+    "opcoNo" : "146",
+    "opcoName" : "Reno Central Whse"
+  }, {
+    "opcoNo" : "147",
+    "opcoName" : "CENTRAL WAREHOUSE-SOUTHEAST"
+  }, {
+    "opcoNo" : "148",
+    "opcoName" : "NE Central Warehouse"
+  }, {
+    "opcoNo" : "163",
+    "opcoName" : "Raleigh"
+  }, {
+    "opcoNo" : "164",
+    "opcoName" : "Gulf Coast"
+  }, {
+    "opcoNo" : "177",
+    "opcoName" : "Northeast RDC"
+  }, {
+    "opcoNo" : "184",
+    "opcoName" : "Southeast RDC"
+  }, {
+    "opcoNo" : "194",
+    "opcoName" : "Central Illinois"
+  }, {
+    "opcoNo" : "195",
+    "opcoName" : "North Dakota"
+  }, {
+    "opcoNo" : "288",
+    "opcoName" : "Knoxville"
+  }, {
+    "opcoNo" : "293",
+    "opcoName" : "Sysco East Texas"
+  }, {
+    "opcoNo" : "306",
+    "opcoName" : "Long Island"
+  }, {
+    "opcoNo" : "320",
+    "opcoName" : "Riverside"
+  }, {
+    "opcoNo" : "332",
+    "opcoName" : "Western Minnesota"
+  }, {
+    "opcoNo" : "335",
+    "opcoName" : "Bahama Food Services"
+  }, {
+    "opcoNo" : "344",
+    "opcoName" : "IFG - Jacksonville"
+  }, {
+    "opcoNo" : "450",
+    "opcoName" : "Alaska"
+  }, {
+    "opcoNo" : "629",
+    "opcoName" : "Allentown"
+  }, {
+    "opcoNo" : "653",
+    "opcoName" : "Tampa"
+  }, {
+    "opcoNo" : "654",
+    "opcoName" : "Arizona East"
+  } ],
+  "mapData" : null,
+  "errorCode" : null,
+  "errorMessage" : null,
+  "result" : true,
+  "size" : 0,
+  "offset" : 0,
+  "message" : null,
+  "_links" : {
+    "self" : {
+      "href" : "http://outs-and-subs-referpws-prod.sales-operations.us-east-1.aws.sysco.net/referp-ws/opco"
+    }
+  }
+}
